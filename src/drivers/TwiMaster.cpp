@@ -1,5 +1,5 @@
 #include <nrfx_log.h>
-#include <hal/nrf_gpio.h>
+#include <nrf_gpio.h>
 #include <cstring>
 #include "TwiMaster.h"
 
